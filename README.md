@@ -7,7 +7,7 @@ Il est conçu pour une utilisation facile et sans complications : il n'y a pas b
 
 Il est à noter que  **ces cartes contituent un supplément au cours de votre enseignant et non un substitut**. Comprendre et apprendre son cours par coeur comme une poésie est essentiel pour exceller en mathématiques.
 
-Si jamais ces cartes doivent mises à jour pour une quelconque raison (ex: erreurs mathématiques), je vous invite à m'en faire part ou bien sur la page hébergée par  [Anki](https://ankiweb.net/shared/decks), ou bien sur cette  [page GitHub](https://github.com/ValentinRonsseray/maths_anki_mp). Sur cette dernière, vous pourrez y trouver ces cartes actualisées et corrigées (sur Anki aussi normalement).
+Si jamais ces cartes doivent mises à jour pour une quelconque raison (ex: erreurs mathématiques), je vous invite à m'en faire part ou bien sur la page hébergée par  [Anki](https://ankiweb.net/shared/decks), ou bien sur cette  [page GitHub](https://github.com/ValentinRonsseray/maths_anki_mp). Sur cette dernière, vous pourrez y trouver ces cartes actualisées et corrigées (sur Anki aussi normalement). Par ailleurs, toute contribution est la bienvenue et votre nom sera crédité.
 
 D'autres ressources pouvant être utiles pour les étudiants en classe préparatoires sont disponibles sur cette [page](https://github.com/ValentinRonsseray/RessourcesUtilesMathsPhysiquePrepaLicense)
 
